@@ -47,11 +47,8 @@ network-traffic-analyzer/
 │   └── csv-report.png
 │
 ├── output/
-│   ├── protocol_chart.png
-│   └── sample_traffic_report.csv
-│
-└── docs/
-    └── architecture-diagram.png
+    ├── protocol_chart.png
+    └── sample_traffic_report.csv
 ```
 
 ---

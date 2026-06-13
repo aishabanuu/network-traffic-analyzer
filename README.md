@@ -67,28 +67,6 @@ network-traffic-analyzer/
 
 ---
 
-## Architecture
-
-![Architecture Diagram](docs/architecture-diagram.png)
-
----
-
-## Screenshots
-
-### Analyzer Running
-
-![Analyzer Running](screenshots/analyzer-running.png)
-
-### Protocol Distribution Chart
-
-![Protocol Chart](screenshots/protocol-chart.png)
-
-### CSV Report
-
-![CSV Report](screenshots/csv-report.png)
-
----
-
 ## Installation
 
 Clone the repository:

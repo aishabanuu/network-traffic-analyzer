@@ -166,6 +166,6 @@ The implementation, testing, documentation, and enhancements in this repository 
 
 ## Author
 
-[Your Name]
+Aisha Banu
 
 Cybersecurity Student | Python | Network Security | Linux
